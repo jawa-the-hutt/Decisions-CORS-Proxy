@@ -10,6 +10,9 @@ The goal of this is to allow you to avoid having CORS issues when using your own
 You will need to edit the web.config and give the proxy:
   1. A Decisions Session ID that you setup for use to call Decisions API endpoints.
   2. A Decisions server URL.  Edit the url provided and change the host/domain information.
+  
+##### WARNING
+There is no security on the API endpoints in the projects.  It is up to you to secure your own API endpoints via whatever mechanism you see fit.  I personally use the excellent OAuth2 security infrastructure from Thinktecture, but you could even just use some of the built in stuff from Microsoft around OAuth2.
 
 
 #### Summary of the CORS issue with Decisions and discussion of the workaround
