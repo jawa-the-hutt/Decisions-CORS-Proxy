@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionsCoreProxy", "DecisionsCoreProxy\DecisionsCoreProxy.csproj", "{F4CC6468-8AA6-405A-AC3C-B9B6CBB63E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionsCoreProxy_Minimum", "DecisionsCoreProxy_Minimum\DecisionsCoreProxy_Minimum.csproj", "{5BB3698C-5F2C-4E58-B75F-1CB94E5272AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CC6468-8AA6-405A-AC3C-B9B6CBB63E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CC6468-8AA6-405A-AC3C-B9B6CBB63E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CC6468-8AA6-405A-AC3C-B9B6CBB63E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CC6468-8AA6-405A-AC3C-B9B6CBB63E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB3698C-5F2C-4E58-B75F-1CB94E5272AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB3698C-5F2C-4E58-B75F-1CB94E5272AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB3698C-5F2C-4E58-B75F-1CB94E5272AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB3698C-5F2C-4E58-B75F-1CB94E5272AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
